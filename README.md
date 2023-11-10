@@ -4,4 +4,4 @@ Sitemap :<br> https://www.gloomaps.com/MtGKfvNtiP
 
 WireFrame:<br> https://drive.google.com/file/d/1K0sNzKYIrYvtsOwT3occfVSjLX2NtwgE/view?usp=drive_link
 
-Mockups :<br> https://www.figma.com/file/rYEtpXSucqLZRXRMRBaKut/Mockup-web?type=design&node-id=0%3A1&mode=design&t=l3WmXWfBFtqEYDfg-1
+Mockups :<br>https://www.figma.com/file/E51o8znTpAnnXzDZVGjrUk/Mockup-web?type=design&node-id=0-1&mode=design&t=LGNrldJLh9XJougC-0
