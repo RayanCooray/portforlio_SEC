@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/portfolio-main/assignments/SPA-GDSE65" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/portfolio-main/assignments/assignment_04/assignment_04/assignment_04" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/portfolio-main/assignments/assignment_08/assignment_08" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/portfolio-main/assignments/assignmnet_03/assignmnet_03" vcs="Git" />
