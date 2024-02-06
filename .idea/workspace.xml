@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9833a7ae-fdbf-4abf-bc21-1197673c100f" name="Changes" comment="final sub">
+    <list default="true" id="9833a7ae-fdbf-4abf-bc21-1197673c100f" name="Changes" comment="del">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-main/images/in-app-chat-blog-cover-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-main/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-main/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,16 +19,21 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2XWzsaHs9iOcWBVSEq0SP2X4jMD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,18 +42,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "structure",
-    "last_opened_file_path": "F:/lk.ijse.e-caffee",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/CodeEvent Company",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -110,6 +119,44 @@
       <workItem from="1699701337496" duration="515000" />
       <workItem from="1699705453280" duration="3200000" />
       <workItem from="1699752224226" duration="26000" />
+      <workItem from="1699757523949" duration="2198000" />
+      <workItem from="1699761038563" duration="1037000" />
+      <workItem from="1699795685112" duration="19000" />
+      <workItem from="1699795822094" duration="972000" />
+      <workItem from="1699840770933" duration="11000" />
+      <workItem from="1699849709819" duration="332000" />
+      <workItem from="1699855164147" duration="354000" />
+      <workItem from="1700139422341" duration="13000" />
+      <workItem from="1700557376287" duration="627000" />
+      <workItem from="1700836929330" duration="14000" />
+      <workItem from="1700881991835" duration="24000" />
+      <workItem from="1702097626078" duration="173000" />
+      <workItem from="1702743080862" duration="135000" />
+      <workItem from="1702744245166" duration="1201000" />
+      <workItem from="1702908470030" duration="15000" />
+      <workItem from="1703177585904" duration="824000" />
+      <workItem from="1703181641937" duration="16000" />
+      <workItem from="1704432050347" duration="113000" />
+      <workItem from="1704511123020" duration="20000" />
+      <workItem from="1704631679889" duration="800000" />
+      <workItem from="1705053993016" duration="89000" />
+      <workItem from="1705201071123" duration="640000" />
+      <workItem from="1705202067659" duration="22000" />
+      <workItem from="1705408952067" duration="2794000" />
+      <workItem from="1705465733650" duration="505000" />
+      <workItem from="1705470226052" duration="25000" />
+      <workItem from="1705738695823" duration="106000" />
+      <workItem from="1705738891328" duration="385000" />
+      <workItem from="1705747882690" duration="544000" />
+      <workItem from="1706078625658" duration="633000" />
+      <workItem from="1706455878406" duration="215000" />
+      <workItem from="1706590166428" duration="58000" />
+      <workItem from="1706958674157" duration="310000" />
+      <workItem from="1706958997660" duration="8000" />
+      <workItem from="1707143145549" duration="241000" />
+      <workItem from="1707145486006" duration="7000" />
+      <workItem from="1707146179067" duration="353000" />
+      <workItem from="1707189279127" duration="1764000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <option name="closed" value="true" />
@@ -127,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699705600672</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="done with the cursor">
+      <option name="closed" value="true" />
+      <created>1699758446140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699758446140</updated>
+    </task>
+    <task id="LOCAL-00004" summary="del">
+      <option name="closed" value="true" />
+      <created>1699758975375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699758975375</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +199,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final" />
     <MESSAGE value="final sub" />
-    <option name="LAST_COMMIT_MESSAGE" value="final sub" />
+    <MESSAGE value="done with the cursor" />
+    <MESSAGE value="del" />
+    <option name="LAST_COMMIT_MESSAGE" value="del" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
